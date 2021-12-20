@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2021/12/14 16:19:40.046.pas,D:\Documentos\RAD Studio\Projects\Unit1.pas=C:\Users\Administrador\Desktop\ProjetoInfo\UCadastroCliente.pas</Transaction>
-    <Transaction>2021/12/14 16:19:40.046.dfm,D:\Documentos\RAD Studio\Projects\Unit1.dfm=C:\Users\Administrador\Desktop\ProjetoInfo\UCadastroCliente.dfm</Transaction>
-    <Transaction>2021/12/14 16:19:58.504.dproj,D:\Documentos\RAD Studio\Projects\Project1.dproj=C:\Users\Administrador\Desktop\ProjetoInfo\ProjetoInfo.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
